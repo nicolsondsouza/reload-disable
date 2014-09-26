@@ -1,0 +1,9 @@
+{
+  "name": "reload-disable",
+  "description": "Disables reload on client side.",
+  "homepage": "https://github.com/nicolsondsouza/meteor-reload-disable",
+  "author": "Trinisoft Technologies Pvt. Ltd. (http://www.trinisoft.com)",
+  "version": "0.1.0",
+  "git": "https://github.com/nicolsondsouza/meteor-reload-disable.git",
+  "packages": {}
+}
